@@ -1,0 +1,12 @@
+server:
+  port: 8088
+
+spring:
+  # 环境 dev|test|prod
+  profiles:
+    active: dev
+
+
+#mybatis
+
+
